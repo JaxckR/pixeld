@@ -1,0 +1,8 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+	<style>
+		.s0 { fill: #4db6ac } 
+		.s1 { fill: #f1f1f1 } 
+	</style>
+	<path id="Background" fill-rule="evenodd" class="s0" d="m540 1080c-298.62 0-540-241.38-540-540 0-298.62 241.38-540 540-540 298.62 0 540 241.38 540 540 0 298.62-241.38 540-540 540z"/>
+	<path id="Logo" class="s1" d="m540 540v162.5h-162.5v-162.5zm-162.5-162.5v162.5h-162.5v-162.5zm325 0v162.5h-162.5v-162.5zm0 325v162.5h-162.5v-162.5zm162.5-162.5v162.5h-162.5v-162.5zm-325-325v162.5h-162.5v-162.5z"/>
+</svg>
